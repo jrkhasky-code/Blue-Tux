@@ -1,0 +1,2 @@
+# Blue-Tux
+linux distro
